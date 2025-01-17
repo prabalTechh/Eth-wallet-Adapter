@@ -73,7 +73,7 @@ bash
 ~~ npm run preview  
 # or  
 ~~ yarn preview  
-r
+
 
 Contribution
 Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
